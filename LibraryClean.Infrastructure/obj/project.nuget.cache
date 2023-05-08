@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XfCDsu3tQxNbapDmbAOXEjITvKvJSMxYeIhfHBHCWDGWuBqfpRHLYM5K/SlMvBqxYqUnzZs2MLDNF/lA6DeuoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmiron\\RiderProjects\\LibraryClean\\LibraryClean.Infrastructure\\LibraryClean.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmiron\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

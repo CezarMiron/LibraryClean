@@ -1,0 +1,12 @@
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\bin\Debug\net6.0\LibraryClean.Core.deps.json
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\bin\Debug\net6.0\LibraryClean.Core.dll
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\bin\Debug\net6.0\LibraryClean.Core.pdb
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\obj\Debug\net6.0\LibraryClean.Core.csproj.AssemblyReference.cache
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\obj\Debug\net6.0\LibraryClean.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\obj\Debug\net6.0\LibraryClean.Core.AssemblyInfoInputs.cache
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\obj\Debug\net6.0\LibraryClean.Core.AssemblyInfo.cs
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\obj\Debug\net6.0\LibraryClean.Core.csproj.CoreCompileInputs.cache
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\obj\Debug\net6.0\LibraryClean.Core.dll
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\obj\Debug\net6.0\refint\LibraryClean.Core.dll
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\obj\Debug\net6.0\LibraryClean.Core.pdb
+C:\Users\cmiron\RiderProjects\LibraryClean\LibraryClean.Core\obj\Debug\net6.0\ref\LibraryClean.Core.dll
